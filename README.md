@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Vitor Manoel!
 <div align="center">
   <a href="https://github.com/VitorQueirozz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorQueirozz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorQueirozz&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorQueirozz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorQueirozz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -20,9 +20,10 @@
   <a href="https://www.linkedin.com/in/vitor-manoel-924b72180" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-  
-  ##
+
+## 
 
 - 👀 Estou interessado em aprender cada vez mais sobre o mundo da programação.
 - 🌱 Atualmente estou aprendendo JavaScript e Fazendo Bootcamps para me aprofundar mais.
 - 💞️ Estou sempre dispoto a novas oportunidades e desafios.
+
