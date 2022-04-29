@@ -22,8 +22,3 @@
 </div>
 
 ## 
-
-- 👀 Estou interessado em aprender cada vez mais sobre o mundo da programação.
-- 🌱 Atualmente estou aprendendo JavaScript e Fazendo Bootcamps para me aprofundar mais.
-- 💞️ Estou sempre dispoto a novas oportunidades e desafios.
-
